@@ -1,0 +1,8 @@
+1231;Muhamad Atallah Alfa Dzaky;Laki-laki;DI Yogyakarta;3e+06;4.4e+06
+1232;Muhammad Wafa Akmal;Laki-laki;Jawa Tengah;1.75e+06;3e+06
+1233;Clarissa Putri;Perempuan;DKI Jakarta;5.5e+06;7.5e+06
+1234;Muhammad Brian Pratama;Laki-laki;Jawa Barat;1.2e+06;2.3e+06
+1235;Laura Aulia;Perempuan;Jawa Barat;2.1e+06;3.65e+06
+1236;Chaisa Hafidz;Laki-laki;DKI Jakarta;3.45e+06;1.25e+06
+1237;Claudia Ayu;Perempuan;Banten;2.4e+06;5.8e+06
+1238;Alfaro Ernest;Laki-laki;Jawa Timur;1.23e+06;3.67e+06
